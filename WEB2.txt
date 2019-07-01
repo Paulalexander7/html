@@ -6,6 +6,7 @@
 </head>
 <body>
 	<CENTER> REGISTRO DE NOTAS </CENTER>
+
 <br>
 	<center> <table border=10 bordercolor="304344">
 		<tr>
