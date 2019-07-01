@@ -1,0 +1,15 @@
+﻿<html>
+<title>
+ TRABAJO CUARTO INFORMATICA
+</title>
+<head>
+</head>
+<body>
+	<CENTER> REGISTRO DE NOTAS </CENTER>
+
+		
+</body>
+<food>
+</food>
+
+</html>
