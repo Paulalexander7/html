@@ -8,11 +8,35 @@
 	<CENTER> REGISTRO DE NOTAS </CENTER>
 <br>
 	<center> <table border=10 bordercolor="304344">
-	</center>
-	
-	<tr>
+		<tr>
 		<td>
-			listo muchachos
+			INTEGRANTES
+		</td>
+		<td>
+			NOTA
+		</td>
+		</tr>
+			<td>
+				PAUL NUÑEZ
+			</td>
+			<td>
+
+			</td>
+			</tr>
+			<td>
+				KEVIN PRUNA
+			</td>
+			<td>
+
+			</td>
+			</tr>
+			<td>
+				JEFFERSON YUMBILLO
+			</td>
+			<td>
+
+			</td>
+			</center>
 			</table>
 
 		
